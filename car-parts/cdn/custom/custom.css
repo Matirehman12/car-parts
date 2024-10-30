@@ -1,0 +1,260 @@
+.text-blue {
+    color: var(--engoc-primary-color) !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.search-car-parts {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    height: 500px;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 15px;
+    position: relative;
+    background-color: #ffffff;
+}
+
+.search-car-parts .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-weight: 700;
+    color: var(--color-secondary);
+    font-size: 28px;
+    letter-spacing: -2.00px;
+    line-height: 30.8px;
+    white-space: nowrap;
+}
+
+.search-car-parts .frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.search-car-parts .div {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-weight: 400;
+    color: var(--color-p-text);
+    font-size: 14px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+}
+
+.search-car-parts .frame-2 {
+    gap: 5px;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.search-car-parts .input {
+    display: flex;
+    height: 45px;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: #ffcc00;
+}
+
+.search-car-parts .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-weight: 500;
+    color: var(--color-secondary);
+    font-size: 14px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+}
+
+.search-car-parts .button {
+    width: 45px;
+    height: 45px;
+    background: var(--engoc-primary-color);
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.42px;
+}
+
+.search-car-parts .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -7.00px;
+    margin-bottom: -5.00px;
+    margin-left: -9.00px;
+    margin-right: -9.00px;
+    font-weight: 500;
+    color: var(--color-white-100);
+    font-size: 14px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+}
+
+.search-car-parts .seperator {
+    display: flex;
+    width: 290px;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.search-car-parts .rectangle {
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    height: 1px;
+    background-color: #d9d9d9;
+}
+
+.search-car-parts .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-weight: 400;
+    color: var(--color-p-text);
+    font-size: 14px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+}
+
+.search-car-parts .input-2 {
+    display: flex;
+    height: 45px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    border: 2px solid;
+    border-color: #ececec;
+}
+
+.search-car-parts .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    font-weight: 400;
+    color: #868686;
+    font-size: 14px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+}
+
+.search-car-parts .caret-down-md {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+
+.search-car-parts .frame-3 {
+    gap: 10px;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.search-car-parts .frame-4 {
+    flex-direction: column;
+    gap: 5px;
+    flex: 1;
+    flex-grow: 1;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.search-car-parts .link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 13.5px 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    background-color: var(--color-primary);
+}
+
+.search-car-parts .search-parts {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: -0.42px;
+    line-height: normal;
+}
+
+.top-banner {
+    background-color: var(--engoc-primary-color);
+    color: #FFF;
+    text-align: center;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.25px;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.top-banner p {
+    margin-bottom: 0;
+}
+
+.top-banner .border {
+    height: 20px;
+}
+.engoc-ssdlv1 .slideshow-info .content2,
+.engoc-ssdlv1 .slideshow-info .content1 {
+    color: var(--engoc-primary-color) !important;
+    font-size: 75px !important;
+    font-style: normal !important;
+    font-weight: 900 !important;
+    line-height: 100%;
+    letter-spacing: -3px;
+    text-transform: capitalize !important;
+    margin-bottom: 20px !important;
+
+}
+.engoc-ssdlv1 .slideshow-info .content2{
+    color: #000 !important;
+}
+
+.engoc-ssdlv1 .slideshow-info .content4{
+    color: var(--color-secondary, #000) !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: normal !important;
+    letter-spacing: -0.5px !important;
+    margin-bottom: 5px !important;
+}
+
+.row-item .style-02{
+    border: 1px solid #ECECEC;
+}

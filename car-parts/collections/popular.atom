@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://azirspares-store-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://azirspares-store-demo.myshopify.com/collections/popular.atom"/>
+  <title>Azirspares – Car dealership and listings directory</title>
+  <updated>2019-10-09T23:17:47-04:00</updated>
+  <author>
+    <name>Azirspares – Car dealership and listings directory</name>
+  </author>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192473677871</id>
+    <published>2019-10-09T23:17:47-04:00</published>
+    <updated>2019-10-09T23:17:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-audi-q3-2-0-tfsi-sport-premium-plus-quattro-awd"/>
+    <title>Z  New 2018 Audi Q3 2.0 TFSI Sport Premium Plus quattro AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod129.jpg?v=1570677497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>After having received an extensive range of enhancements for 2017, one of the best-selling cars in the world and the best-selling Audi’s offering enters the 2018 model year with only a few minor updates. The last year’s improvements to the  Audi included refreshed styling, upgraded interior upholstery, standard rear-view camera, and a bunch of active safety features named Audi Safety Sense-P. The 2018 Audi comes with illuminated visor vanity mirrors for the driver and front passenger as standard. XLE and SE trim levels received an upgraded 3-spoke steering wheel that now features leather trim and controls for Bluetooth operation, driver info display, voice command, and audio. The 50th Anniversary Edition was dropped. Otherwise, the Audi remained essentially unchanged.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192473677871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192460308527</id>
+    <published>2019-10-09T23:04:20-04:00</published>
+    <updated>2019-10-09T23:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-audi-q7-3-0-tfsi-premium-plus-awd"/>
+    <title>Z  New 2018 Audi Q7 3.0 TFSI Premium Plus AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod120.jpg?v=1570676694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65045.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192460308527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65045.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192425672751</id>
+    <published>2019-10-09T22:36:08-04:00</published>
+    <updated>2019-10-09T22:36:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-mazda6-sport-manual-front-wheel-drive-sedan"/>
+    <title>Z  New 2018 Mazda6 Sport Manual Front Wheel Drive Sedan</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod102.jpg?v=1570675330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21645.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192425672751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21645.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192424165423</id>
+    <published>2019-10-09T22:34:45-04:00</published>
+    <updated>2019-10-09T22:34:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2019-nissan-versa-sedan-s-plus-cvt"/>
+    <title>Z  New 2019 Nissan Versa Sedan S Plus CVT</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod93.jpg?v=1570674918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14560.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192424165423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192406896687</id>
+    <published>2019-10-09T22:18:26-04:00</published>
+    <updated>2019-10-09T22:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-volkswagen-jetta-s-automatic"/>
+    <title>Z Used 2017 Volkswagen Jetta S Automatic</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod86.jpg?v=1570674138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14560.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192406896687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192377143343</id>
+    <published>2019-10-09T21:53:30-04:00</published>
+    <updated>2019-10-09T21:53:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-toyota-corolla-le-cvt"/>
+    <title>Z Used 2018 Toyota Corolla LE CVT</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod60.jpg?v=1570672668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this tool as test data for an automated system or find your next pen pal by cold snail-mailing letter to a random address. If its not an actual address, the post office should return it back to sender.</p>
+<p>It may just be fun to annoy your local post office by mailing letters to these locations. They'll have figure out that its an incorrect address and get it back to you. Then you can readdress it to some other fake random address.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192377143343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190995841071</id>
+    <published>2019-10-09T07:00:50-04:00</published>
+    <updated>2019-10-09T07:00:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-ford-explorer-limited-4wd"/>
+    <title>Z Used 2018 Ford Explorer Limited 4WD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod49.jpg?v=1570671839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35574.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Authoritatively parallel task backward-compatible web services vis-a-vis sticky web services. Completely deliver B2B deliverables through intuitive materials. Synergistically actualize quality functionalities vis-a-vis flexible content. Uniquely leverage other's quality convergence via interoperable content.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190995841071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35574.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190919753775</id>
+    <published>2019-10-09T06:22:42-04:00</published>
+    <updated>2019-10-09T06:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-certified-used-2017-mazda-3-4-door-touring-auto"/>
+    <title>Z Certified Used 2017 Mazda 3 4-Door Touring Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod13.jpg?v=1570616987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Besides manufacturing performance and racing instrumentation and electronics for the azirspares aftermarket, Auto Meter also has an OEM division that makes instrumentation for production vehicles, a Pro-Cycle division that produces instrumentation for motorcycles, a Marine division that creates instrumentation for watercraft, and a Test Equipment division that manufactures a complete line of equipment for testing, charging and maintaining batteries, and testing the vehicle charging system.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190919753775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16148.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

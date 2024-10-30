@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://azirspares-store-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://azirspares-store-demo.myshopify.com/collections/new-arrivals.atom"/>
+  <title>Azirspares – Car dealership and listings directory</title>
+  <updated>2019-10-10T00:16:01-04:00</updated>
+  <author>
+    <name>Azirspares – Car dealership and listings directory</name>
+  </author>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192551600175</id>
+    <published>2019-10-10T00:16:01-04:00</published>
+    <updated>2019-10-10T00:16:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/anzo-led-headlights"/>
+    <title>Anzo – LED Headlights Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product-15.jpg?v=1570680991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1035.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>2015</s:tag>
+    <s:tag>2016</s:tag>
+    <s:tag>2017</s:tag>
+    <s:tag>2018</s:tag>
+    <s:tag>2019</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4 Runner</s:tag>
+    <s:tag>6-Series</s:tag>
+    <s:tag>7-Series</s:tag>
+    <s:tag>718 Boxster</s:tag>
+    <s:tag>718 Cayman</s:tag>
+    <s:tag>911 Series</s:tag>
+    <s:tag>Audi</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Bentley</s:tag>
+    <s:tag>Honda</s:tag>
+    <s:tag>Lexus</s:tag>
+    <s:tag>Mercedes</s:tag>
+    <s:tag>Porsche</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192551600175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1035.00</s:price>
+      <s:sku>120K042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192544948271</id>
+    <published>2019-10-10T00:10:36-04:00</published>
+    <updated>2019-10-10T00:10:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/magnaflow-pro-series-exhaust-system"/>
+    <title>MagnaFlow – Pro Series Exhaust System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product-10.jpg?v=1570680675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            277.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192544948271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">277.06</s:price>
+      <s:sku>391T045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+    <published>2019-10-09T23:49:26-04:00</published>
+    <updated>2019-10-09T23:49:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/afe-bladerunner-turbocharger"/>
+    <title>aFe – BladeRunner Turbocharger</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product-5.jpg?v=1570679386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0.00 - $100.00</s:tag>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Extra Large</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Gainsboro</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Small / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Small / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Medium / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Medium / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Large / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Large / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Extra Large / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Extra Large / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X169</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Extra Large / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190241521711</id>
+    <published>2019-10-09T00:55:43-04:00</published>
+    <updated>2019-10-09T00:55:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/planet-audio-series-250w-coaxial-speakers"/>
+    <title>Planet Audio – Series 250W Coaxial Speakers</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/360-1.jpg?v=1570608621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0.00 - $100.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190241521711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.05</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308518711343</id>
+    <published>2019-07-23T00:09:23-04:00</published>
+    <updated>2019-07-23T00:09:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/flowmaster-outlaw-exhaust-system"/>
+    <title>Flowmaster – Outlaw Exhaust System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product30-1.jpg?v=1563855057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            425.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400.00 - $500.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308518711343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308515401775</id>
+    <published>2019-07-23T00:05:59-04:00</published>
+    <updated>2019-07-23T00:05:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/edelbrock-kit-supercharger-system"/>
+    <title>Edelbrock – Kit Supercharger System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product29-1.jpg?v=1563854819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>$500.00+</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308515401775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308511010863</id>
+    <published>2019-07-23T00:03:17-04:00</published>
+    <updated>2019-07-23T00:03:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/exhaust-system-car-vehicle-muffler"/>
+    <title>Exhaust System Car Vehicle Muffler</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product28-1.jpg?v=1563854667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308511010863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308507897903</id>
+    <published>2019-07-23T00:00:21-04:00</published>
+    <updated>2019-07-23T00:00:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/map-air-intake-system"/>
+    <title>MAP Air Intake System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product27-1.jpg?v=1563854495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            205.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308507897903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">205.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308506488879</id>
+    <published>2019-07-22T23:58:57-04:00</published>
+    <updated>2019-07-22T23:58:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/headlights-with-drl-and-turn-signal"/>
+    <title>Headlights with DRL and Turn Signal</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product26-1.jpg?v=1563854381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308506488879</id>
+      <title>Default Title</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308505505839</id>
+    <published>2019-07-22T23:58:09-04:00</published>
+    <updated>2019-07-22T23:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/car-and-truck-throttle-bodies"/>
+    <title>Car and Truck Throttle Bodies Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product25-1.jpg?v=1563854307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308505505839</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308503703599</id>
+    <published>2019-07-22T23:56:29-04:00</published>
+    <updated>2019-07-22T23:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/diablo-angel-chrome-with-inserts"/>
+    <title>DIABLO – ANGEL Chrome with Inserts</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product19-2_f094e58d-b26e-47de-9b8d-6bf15258b541.jpg?v=1563854260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500.00+</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Extra Large</s:tag>
+    <s:tag>MediumBlue</s:tag>
+    <s:tag>OrangeRed</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308503703599</id>
+      <title>Extra Large / OrangeRed</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308503703599</id>
+      <title>Extra Large / RoyalBlue</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>608Z040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308503703599</id>
+      <title>Extra Large / MediumBlue</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>608Z041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308503703599</id>
+      <title>Extra Large / Black</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>608Z042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308503703599</id>
+      <title>Extra Large / Silver</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>608Z043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308499509295</id>
+    <published>2019-07-22T23:53:25-04:00</published>
+    <updated>2019-07-22T23:53:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/bosal-catalytic-converter"/>
+    <title>Bosal – Catalytic Converter Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product24-1.jpg?v=1563854060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308499509295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308497281071</id>
+    <published>2019-07-22T23:52:00-04:00</published>
+    <updated>2019-07-22T23:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/braum-elite-x-sport-seats"/>
+    <title>Braum – Elite-X Sport Seats Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product23-1.jpg?v=1563853980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            729.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>$500.00+</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Maroon</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308497281071</id>
+      <title>Medium / White</title>
+      <s:price currency="USD">729.00</s:price>
+      <s:sku>460S130</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308497281071</id>
+      <title>Medium / Chocolate</title>
+      <s:price currency="USD">729.00</s:price>
+      <s:sku>460S131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308497281071</id>
+      <title>Medium / Maroon</title>
+      <s:price currency="USD">729.00</s:price>
+      <s:sku>460S132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308497281071</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">729.00</s:price>
+      <s:sku>460S133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308494594095</id>
+    <published>2019-07-22T23:49:44-04:00</published>
+    <updated>2019-07-22T23:49:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/rotiform-sfo-custom-forged"/>
+    <title>Rotiform SFO – Custom Forged</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product22-1.jpg?v=1563853851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2015</s:tag>
+    <s:tag>2016</s:tag>
+    <s:tag>2017</s:tag>
+    <s:tag>2018</s:tag>
+    <s:tag>2019</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4 Runner</s:tag>
+    <s:tag>6-Series</s:tag>
+    <s:tag>7-Series</s:tag>
+    <s:tag>718 Boxster</s:tag>
+    <s:tag>718 Cayman</s:tag>
+    <s:tag>911 Series</s:tag>
+    <s:tag>Audi</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Bentley</s:tag>
+    <s:tag>Honda</s:tag>
+    <s:tag>Lexus</s:tag>
+    <s:tag>Mercedes</s:tag>
+    <s:tag>Porsche</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308494594095</id>
+      <title>Default Title</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308479324207</id>
+    <published>2019-07-22T23:39:04-04:00</published>
+    <updated>2019-07-22T23:39:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/indoor-custom-car-cover"/>
+    <title>Indoor Custom Car Cover</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product21-1.jpg?v=1563853172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100.00 - $200.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308479324207</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308477456431</id>
+    <published>2019-07-22T23:37:52-04:00</published>
+    <updated>2019-07-22T23:37:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/series-high-flow-performance-air-intake-kit"/>
+    <title>Series High-Flow Performance Air Intake Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product20-1.jpg?v=1563853122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2015</s:tag>
+    <s:tag>2016</s:tag>
+    <s:tag>2017</s:tag>
+    <s:tag>2018</s:tag>
+    <s:tag>2019</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4 Runner</s:tag>
+    <s:tag>6-Series</s:tag>
+    <s:tag>7-Series</s:tag>
+    <s:tag>718 Boxster</s:tag>
+    <s:tag>718 Cayman</s:tag>
+    <s:tag>911 Series</s:tag>
+    <s:tag>Audi</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Bentley</s:tag>
+    <s:tag>Honda</s:tag>
+    <s:tag>Lexus</s:tag>
+    <s:tag>Mercedes</s:tag>
+    <s:tag>Porsche</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308477456431</id>
+      <title>Default Title</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+    <published>2019-07-22T23:36:22-04:00</published>
+    <updated>2019-07-22T23:36:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/blue-wheel-with-inserts"/>
+    <title>Blue Wheel With Inserts Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product19-1.jpg?v=1563853037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            305.00 - 395.00
+            <a href="https://azirspares-store-demo.myshopify.com/products/blue-wheel-with-inserts">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">305.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>S / Black</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>S / MidnightBlue</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>S / Red</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>M / Black</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>M / MidnightBlue</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>M / Red</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">385.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>L / Black</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>L / MidnightBlue</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>L / Red</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>XL / Blue</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>XL / MidnightBlue</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308475719727</id>
+      <title>XL / Red</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>124K0007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308474572847</id>
+    <published>2019-07-22T23:34:51-04:00</published>
+    <updated>2019-07-22T23:34:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/radi-cal-ii-2-piece-j-hook-big-brake-kit"/>
+    <title>Radi-CAL II 2-Piece J Hook Big Brake Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product18-1.jpg?v=1563852957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2015</s:tag>
+    <s:tag>2016</s:tag>
+    <s:tag>2017</s:tag>
+    <s:tag>2018</s:tag>
+    <s:tag>2019</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4 Runner</s:tag>
+    <s:tag>6-Series</s:tag>
+    <s:tag>7-Series</s:tag>
+    <s:tag>718 Boxster</s:tag>
+    <s:tag>718 Cayman</s:tag>
+    <s:tag>911 Series</s:tag>
+    <s:tag>Audi</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Bentley</s:tag>
+    <s:tag>Honda</s:tag>
+    <s:tag>Lexus</s:tag>
+    <s:tag>Mercedes</s:tag>
+    <s:tag>Porsche</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308474572847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3250.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308473229359</id>
+    <published>2019-07-22T23:33:28-04:00</published>
+    <updated>2019-07-22T23:33:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/oe-solutions-door-lock-actuator-motor"/>
+    <title>OE Solutions Door Lock Actuator Motor</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product17-1.jpg?v=1563852855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308473229359</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308471885871</id>
+    <published>2019-07-22T23:31:53-04:00</published>
+    <updated>2019-07-22T23:31:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/audiopipe-series-200w-titanium-super-tweeter"/>
+    <title>Audiopipe – Series 200W Titanium Super Tweeter</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product16-1.jpg?v=1563852769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0.00 - $100.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308471885871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308470083631</id>
+    <published>2019-07-22T23:29:51-04:00</published>
+    <updated>2019-07-22T23:29:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/jump-start-box"/>
+    <title>Jump Start Box</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product15-1.jpg?v=1563852679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308470083631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308427714607</id>
+    <published>2019-07-22T22:52:37-04:00</published>
+    <updated>2019-07-22T22:52:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/brembo-cross-drilled-2-piece-rotor-big-brake-kit"/>
+    <title>Brembo – Cross Drilled 2-Piece Rotor Big Brake Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product14-1.jpg?v=1563850429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308427714607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12100.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308425224239</id>
+    <published>2019-07-22T22:51:16-04:00</published>
+    <updated>2019-07-22T22:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/replace-oe-replacement-engine"/>
+    <title>Replace – OE Replacement Engine</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product13-1.jpg?v=1563850325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2015</s:tag>
+    <s:tag>2016</s:tag>
+    <s:tag>2017</s:tag>
+    <s:tag>2018</s:tag>
+    <s:tag>2019</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4 Runner</s:tag>
+    <s:tag>6-Series</s:tag>
+    <s:tag>7-Series</s:tag>
+    <s:tag>718 Boxster</s:tag>
+    <s:tag>718 Cayman</s:tag>
+    <s:tag>911 Series</s:tag>
+    <s:tag>Audi</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Bentley</s:tag>
+    <s:tag>Honda</s:tag>
+    <s:tag>Lexus</s:tag>
+    <s:tag>Mercedes</s:tag>
+    <s:tag>Porsche</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308425224239</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1260.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308419948591</id>
+    <published>2019-07-22T22:49:49-04:00</published>
+    <updated>2019-07-22T22:49:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/bosch-oe-specialty-iridium-spark-plug"/>
+    <title>Bosch – OE Specialty Iridium Spark Plug</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product12-1.jpg?v=1570679093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308419948591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>308M849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308419391535</id>
+    <published>2019-07-22T22:49:05-04:00</published>
+    <updated>2019-07-22T22:49:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/3rd-generation-direct-fit-a-pillar-gauge-kit"/>
+    <title>3rd Generation Direct Fit A-Pillar Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product11-1.jpg?v=1563850166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300.00 - $400.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308419391535</id>
+      <title>Default Title</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

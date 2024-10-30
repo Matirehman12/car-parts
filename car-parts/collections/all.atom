@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://azirspares-store-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://azirspares-store-demo.myshopify.com/collections/all.atom"/>
+  <title>Azirspares – Car dealership and listings directory</title>
+  <updated>2019-10-10T00:16:01-04:00</updated>
+  <author>
+    <name>Azirspares – Car dealership and listings directory</name>
+  </author>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192551600175</id>
+    <published>2019-10-10T00:16:01-04:00</published>
+    <updated>2019-10-10T00:16:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/anzo-led-headlights"/>
+    <title>Anzo – LED Headlights Gauge Kit</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product-15.jpg?v=1570680991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1035.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>2015</s:tag>
+    <s:tag>2016</s:tag>
+    <s:tag>2017</s:tag>
+    <s:tag>2018</s:tag>
+    <s:tag>2019</s:tag>
+    <s:tag>2020</s:tag>
+    <s:tag>4 Runner</s:tag>
+    <s:tag>6-Series</s:tag>
+    <s:tag>7-Series</s:tag>
+    <s:tag>718 Boxster</s:tag>
+    <s:tag>718 Cayman</s:tag>
+    <s:tag>911 Series</s:tag>
+    <s:tag>Audi</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Bentley</s:tag>
+    <s:tag>Honda</s:tag>
+    <s:tag>Lexus</s:tag>
+    <s:tag>Mercedes</s:tag>
+    <s:tag>Porsche</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192551600175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1035.00</s:price>
+      <s:sku>120K042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192544948271</id>
+    <published>2019-10-10T00:10:36-04:00</published>
+    <updated>2019-10-10T00:10:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/magnaflow-pro-series-exhaust-system"/>
+    <title>MagnaFlow – Pro Series Exhaust System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product-10.jpg?v=1570680675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            277.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192544948271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">277.06</s:price>
+      <s:sku>391T045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+    <published>2019-10-09T23:49:26-04:00</published>
+    <updated>2019-10-09T23:49:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/afe-bladerunner-turbocharger"/>
+    <title>aFe – BladeRunner Turbocharger</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product-5.jpg?v=1570679386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0.00 - $100.00</s:tag>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Extra Large</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Gainsboro</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Small / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Small / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Small / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Medium / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Medium / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Medium / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Large / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Large / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Large / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Extra Large / Gold</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Extra Large / Gainsboro</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X169</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192520798255</id>
+      <title>Extra Large / Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>406X170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192473677871</id>
+    <published>2019-10-09T23:17:47-04:00</published>
+    <updated>2019-10-09T23:17:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-audi-q3-2-0-tfsi-sport-premium-plus-quattro-awd"/>
+    <title>Z  New 2018 Audi Q3 2.0 TFSI Sport Premium Plus quattro AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod129.jpg?v=1570677497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>After having received an extensive range of enhancements for 2017, one of the best-selling cars in the world and the best-selling Audi’s offering enters the 2018 model year with only a few minor updates. The last year’s improvements to the  Audi included refreshed styling, upgraded interior upholstery, standard rear-view camera, and a bunch of active safety features named Audi Safety Sense-P. The 2018 Audi comes with illuminated visor vanity mirrors for the driver and front passenger as standard. XLE and SE trim levels received an upgraded 3-spoke steering wheel that now features leather trim and controls for Bluetooth operation, driver info display, voice command, and audio. The 50th Anniversary Edition was dropped. Otherwise, the Audi remained essentially unchanged.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192473677871</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192460308527</id>
+    <published>2019-10-09T23:04:20-04:00</published>
+    <updated>2019-10-09T23:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-audi-q7-3-0-tfsi-premium-plus-awd"/>
+    <title>Z  New 2018 Audi Q7 3.0 TFSI Premium Plus AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod120.jpg?v=1570676694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65045.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192460308527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65045.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192441073711</id>
+    <published>2019-10-09T22:45:51-04:00</published>
+    <updated>2019-10-09T22:45:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-mazda6-sport-automatic-front-wheel-drive-sedan"/>
+    <title>Z  New 2018 Mazda6 Sport Automatic Front Wheel Drive Sedan</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod111.jpg?v=1570675649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192441073711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192425672751</id>
+    <published>2019-10-09T22:36:08-04:00</published>
+    <updated>2019-10-09T22:36:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-mazda6-sport-manual-front-wheel-drive-sedan"/>
+    <title>Z  New 2018 Mazda6 Sport Manual Front Wheel Drive Sedan</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod102.jpg?v=1570675330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21645.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192425672751</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21645.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192424165423</id>
+    <published>2019-10-09T22:34:45-04:00</published>
+    <updated>2019-10-09T22:34:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2019-nissan-versa-sedan-s-plus-cvt"/>
+    <title>Z  New 2019 Nissan Versa Sedan S Plus CVT</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod93.jpg?v=1570674918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14560.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192424165423</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192406896687</id>
+    <published>2019-10-09T22:18:26-04:00</published>
+    <updated>2019-10-09T22:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-volkswagen-jetta-s-automatic"/>
+    <title>Z Used 2017 Volkswagen Jetta S Automatic</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod86.jpg?v=1570674138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14560.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+<p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192406896687</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192404537391</id>
+    <published>2019-10-09T22:16:00-04:00</published>
+    <updated>2019-10-09T22:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-hyundai-santa-fe-sport-auto-awd"/>
+    <title>Z Used 2018 Hyundai Santa Fe Sport Auto AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod77.jpg?v=1570673800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20074.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
+<p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192404537391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20074.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192386482223</id>
+    <published>2019-10-09T22:01:25-04:00</published>
+    <updated>2019-10-09T22:01:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-nissan-frontier-crew-cab-4x4-sv-v6-auto"/>
+    <title>Z Used 2018 Nissan Frontier Crew Cab 4X4 SV V6 Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod76.jpg?v=1570673735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192386482223</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192377143343</id>
+    <published>2019-10-09T21:53:30-04:00</published>
+    <updated>2019-10-09T21:53:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-toyota-corolla-le-cvt"/>
+    <title>Z Used 2018 Toyota Corolla LE CVT</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod60.jpg?v=1570672668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this tool as test data for an automated system or find your next pen pal by cold snail-mailing letter to a random address. If its not an actual address, the post office should return it back to sender.</p>
+<p>It may just be fun to annoy your local post office by mailing letters to these locations. They'll have figure out that its an incorrect address and get it back to you. Then you can readdress it to some other fake random address.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192377143343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4192376061999</id>
+    <published>2019-10-09T21:52:09-04:00</published>
+    <updated>2019-10-09T21:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-bmw-m850i-xdrive"/>
+    <title>Z New 2018 BMW M850i xDrive</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod50.jpg?v=1570672357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            115985.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BMW has introduced the first-ever BMW 8 Series Convertible</strong>, which joins the new BMW 8 Series Coupe in blending ultra-sporting driving dynamics with an emotional and elegant design.</p>
+<p>The soft-top, four-seat BMW M850i xDrive Convertible combines immense power and torque delivery from its updated 4.4-litre eight-cylinder turbocharged engine with advanced chassis, luxurious comfort and state-of-the-art innovations in technology, driver assistance and connectivity.</p>
+<p>The exterior design of the first-ever BMW 8 Series Convertible exudes a very modern form of sporting appeal, beautifully blended, with an air of exclusiveness and sensual allure.</p>
+<p>The fully-electric soft-top design incorporates multiple layers of fabric materials to not only insulate the occupants of the first-ever BMW 8 Series Convertible from outside noise and elements but also helps reduce weight from the very top of the vehicle, thus lowering the centre of gravity and improving handling and performance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4192376061999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115985.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190995841071</id>
+    <published>2019-10-09T07:00:50-04:00</published>
+    <updated>2019-10-09T07:00:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-ford-explorer-limited-4wd"/>
+    <title>Z Used 2018 Ford Explorer Limited 4WD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod49.jpg?v=1570671839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35574.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Authoritatively parallel task backward-compatible web services vis-a-vis sticky web services. Completely deliver B2B deliverables through intuitive materials. Synergistically actualize quality functionalities vis-a-vis flexible content. Uniquely leverage other's quality convergence via interoperable content.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190995841071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35574.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190986108975</id>
+    <published>2019-10-09T06:55:20-04:00</published>
+    <updated>2019-10-09T06:55:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-kia-soul-auto-1"/>
+    <title>Z Used 2016 Lexus NX 200T AWD 4DR</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod37.jpg?v=1570618805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32075.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Besides manufacturing performance and racing instrumentation and electronics for the azirspares aftermarket, Auto Meter also has an OEM division that makes instrumentation for production vehicles, a Pro-Cycle division that produces instrumentation for motorcycles, a Marine division that creates instrumentation for watercraft, and a Test Equipment division that manufactures a complete line of equipment for testing, charging and maintaining batteries, and testing the vehicle charging system.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190986108975</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32075.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190973919279</id>
+    <published>2019-10-09T06:48:59-04:00</published>
+    <updated>2019-10-09T06:48:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-kia-soul-auto"/>
+    <title>Z Used 2017 Kia Soul + Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod31.jpg?v=1570618409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13075.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AutoMeter® makes a gauge to suit any need and every style from original classics to purpose built race cars and everything in between. The AutoMeter gauges that we feature are the Auto Gage, American Muscle, Arctic White, C2, Cobalt, Cobalt Digital, Designer Black, ES Series, Golden Oldies, Old Tyme White, Old Tyme White II, Phantom, Sport Comp, Sport Comp II, Ultra-Lite, Ultra Lite II, GT Series, Dodge Factory Match, Ford Factory Match, MCX, Mopar, GM Factory Match, Sport Comp Digital, Elite Series, GS Series, Carbon Fiber, Nexus, Pro Comp, NV gauges, Ford Racing, Z Series and others.</p>
+<p>Also AutoMeter® offer Gauge Kits with exceptional design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190973919279</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13075.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190961401903</id>
+    <published>2019-10-09T06:41:18-04:00</published>
+    <updated>2019-10-09T06:41:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-hyundai-accent-se-hatchback-auto"/>
+    <title>Z Used 2017 Hyundai Accent SE Hatchback Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod25.jpg?v=1570618064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11075.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AutoMeter® makes a gauge to suit any need and every style from original classics to purpose built race cars and everything in between. The AutoMeter gauges that we feature are the Auto Gage, American Muscle, Arctic White, C2, Cobalt, Cobalt Digital, Designer Black, ES Series, Golden Oldies, Old Tyme White, Old Tyme White II, Phantom, Sport Comp, Sport Comp II, Ultra-Lite, Ultra Lite II, GT Series, Dodge Factory Match, Ford Factory Match, MCX, Mopar, GM Factory Match, Sport Comp Digital, Elite Series, GS Series, Carbon Fiber, Nexus, Pro Comp, NV gauges, Ford Racing, Z Series and others.</p>
+<p>Also AutoMeter® offer Gauge Kits with exceptional design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190961401903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11075.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190931255343</id>
+    <published>2019-10-09T06:30:35-04:00</published>
+    <updated>2019-10-09T06:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-certified-used-2017-chevrolet-cruze-4dr-hb-1-4l-lt-w-1sd"/>
+    <title>Z Certified Used 2017 Chevrolet Cruze 4DR HB 1.4L LT w/1SD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod19.jpg?v=1570617565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Continually brand prospective e-business without fully researched customer service. Holisticly expedite plug-and-play leadership skills whereas resource-leveling ROI.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190931255343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190919753775</id>
+    <published>2019-10-09T06:22:42-04:00</published>
+    <updated>2019-10-09T06:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-certified-used-2017-mazda-3-4-door-touring-auto"/>
+    <title>Z Certified Used 2017 Mazda 3 4-Door Touring Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod13.jpg?v=1570616987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Besides manufacturing performance and racing instrumentation and electronics for the azirspares aftermarket, Auto Meter also has an OEM division that makes instrumentation for production vehicles, a Pro-Cycle division that produces instrumentation for motorcycles, a Marine division that creates instrumentation for watercraft, and a Test Equipment division that manufactures a complete line of equipment for testing, charging and maintaining batteries, and testing the vehicle charging system.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190919753775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16148.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190917591087</id>
+    <published>2019-10-09T06:20:50-04:00</published>
+    <updated>2019-10-09T06:20:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-audi-a6-2-0-tfsi-premium-plus-quattro-awd-awd"/>
+    <title>Z New 2018 Audi A6 2.0 TFSI Premium Plus quattro AWD AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod7.jpg?v=1570616485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Beautiful Ibis white Audi A6 with Atlas Beige interior. Premium plus package with features including Auto Dimming mirrors, Audi side assist, LED interior lighting, Four-zone climate control, Bose sound system, LED Headlights, 19-inch Sport package, Sport suspension, Cold weather package and much much more.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190917591087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190903631919</id>
+    <published>2019-10-09T06:11:26-04:00</published>
+    <updated>2019-10-09T06:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/new-2018-bentley-continental-gt-supersport-convertible-awd"/>
+    <title>Z New 2018 Bentley Continental GT SuperSport AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod1.jpg?v=1570615945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            358435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bentley aficionados know that Supersports models are the best of the best; with cranked up performance, dating all the way back to their 1920s motorsports heydays. Well, Bentley delivers yet again. The Continental Supersports is the fastest Bentley ever. So it’s time to get some posh performance on!</p>
+<p>It’s a given that when most Bentley owners hop behind the wheel, it’s off to their country estate, or perhaps to the office of whatever Fortune 500 company they work for. Fortunately, we didn’t have to buy this 2018 Bentley Continental Supersports to try it out. Rather, Bentley was kind enough to “drop it off” for a few days so we could, you know, kick the tires.</p>
+<p>And, we did just that, around the two miles and 9 turns of Roebling Road Raceway near Savannah, Georgia. And, why not? With a top speed of 209 miles-per-hour, it’s the fastest 4-seat luxury car you can buy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190903631919</id>
+      <title>Default Title</title>
+      <s:price currency="USD">358435.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190241521711</id>
+    <published>2019-10-09T00:55:43-04:00</published>
+    <updated>2019-10-09T00:55:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/planet-audio-series-250w-coaxial-speakers"/>
+    <title>Planet Audio – Series 250W Coaxial Speakers</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/360-1.jpg?v=1570608621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$0.00 - $100.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190241521711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.05</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308518711343</id>
+    <published>2019-07-23T00:09:23-04:00</published>
+    <updated>2019-07-23T00:09:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/flowmaster-outlaw-exhaust-system"/>
+    <title>Flowmaster – Outlaw Exhaust System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product30-1.jpg?v=1563855057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            425.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400.00 - $500.00</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308518711343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308515401775</id>
+    <published>2019-07-23T00:05:59-04:00</published>
+    <updated>2019-07-23T00:05:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/edelbrock-kit-supercharger-system"/>
+    <title>Edelbrock – Kit Supercharger System</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product29-1.jpg?v=1563854819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>$500.00+</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308515401775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/1308511010863</id>
+    <published>2019-07-23T00:03:17-04:00</published>
+    <updated>2019-07-23T00:03:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/exhaust-system-car-vehicle-muffler"/>
+    <title>Exhaust System Car Vehicle Muffler</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/product28-1.jpg?v=1563854667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="azirspares-heading style3">
+<div class="heading-inner">
+<div class="header-wrap">
+<h3 class="title"><span>Azirspares - Car Dealerships, <br>Auto Part And Listing</span></h3>
+</div>
+</div>
+</div>
+<br>
+<p class="text-center">A wonderful and modern design that is spend own for AUTO PARTS, Car Portal and MarketPlace theme.<br>The features are designed specifically and fully detailed with Car Listing, support perfectly for popular plugins such as:<br>Multi Vendor…And in particular, you will have a great mobile experience that’s designed to be at your best comfortable.<br>This 2 in 1 theme is really worthwhile for you to experience it.</p>
+<br> <br>
+<div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/files/lap.png?6237" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$1000</s:tag>
+    <s:tag>$1500</s:tag>
+    <s:tag>$2000</s:tag>
+    <s:tag>$2500</s:tag>
+    <s:tag>$500</s:tag>
+    <s:tag>Acura</s:tag>
+    <s:tag>auto_collection</s:tag>
+    <s:tag>BMW</s:tag>
+    <s:tag>Camry</s:tag>
+    <s:tag>Chevrolet</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Kia</s:tag>
+    <s:tag>Land Cruiser</s:tag>
+    <s:tag>Prado</s:tag>
+    <s:tag>Rush</s:tag>
+    <s:tag>Toyota</s:tag>
+    <s:tag>Vios</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/1308511010863</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>608Z039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

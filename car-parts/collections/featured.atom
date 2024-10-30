@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://azirspares-store-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://azirspares-store-demo.myshopify.com/collections/featured.atom"/>
+  <title>Azirspares – Car dealership and listings directory</title>
+  <updated>2019-10-09T07:00:50-04:00</updated>
+  <author>
+    <name>Azirspares – Car dealership and listings directory</name>
+  </author>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190995841071</id>
+    <published>2019-10-09T07:00:50-04:00</published>
+    <updated>2019-10-09T07:00:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2018-ford-explorer-limited-4wd"/>
+    <title>Z Used 2018 Ford Explorer Limited 4WD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod49.jpg?v=1570671839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35574.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Authoritatively parallel task backward-compatible web services vis-a-vis sticky web services. Completely deliver B2B deliverables through intuitive materials. Synergistically actualize quality functionalities vis-a-vis flexible content. Uniquely leverage other's quality convergence via interoperable content.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190995841071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35574.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190986108975</id>
+    <published>2019-10-09T06:55:20-04:00</published>
+    <updated>2019-10-09T06:55:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-kia-soul-auto-1"/>
+    <title>Z Used 2016 Lexus NX 200T AWD 4DR</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod37.jpg?v=1570618805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32075.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Besides manufacturing performance and racing instrumentation and electronics for the azirspares aftermarket, Auto Meter also has an OEM division that makes instrumentation for production vehicles, a Pro-Cycle division that produces instrumentation for motorcycles, a Marine division that creates instrumentation for watercraft, and a Test Equipment division that manufactures a complete line of equipment for testing, charging and maintaining batteries, and testing the vehicle charging system.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190986108975</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32075.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190973919279</id>
+    <published>2019-10-09T06:48:59-04:00</published>
+    <updated>2019-10-09T06:48:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-kia-soul-auto"/>
+    <title>Z Used 2017 Kia Soul + Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod31.jpg?v=1570618409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13075.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AutoMeter® makes a gauge to suit any need and every style from original classics to purpose built race cars and everything in between. The AutoMeter gauges that we feature are the Auto Gage, American Muscle, Arctic White, C2, Cobalt, Cobalt Digital, Designer Black, ES Series, Golden Oldies, Old Tyme White, Old Tyme White II, Phantom, Sport Comp, Sport Comp II, Ultra-Lite, Ultra Lite II, GT Series, Dodge Factory Match, Ford Factory Match, MCX, Mopar, GM Factory Match, Sport Comp Digital, Elite Series, GS Series, Carbon Fiber, Nexus, Pro Comp, NV gauges, Ford Racing, Z Series and others.</p>
+<p>Also AutoMeter® offer Gauge Kits with exceptional design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190973919279</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13075.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190961401903</id>
+    <published>2019-10-09T06:41:18-04:00</published>
+    <updated>2019-10-09T06:41:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-used-2017-hyundai-accent-se-hatchback-auto"/>
+    <title>Z Used 2017 Hyundai Accent SE Hatchback Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod25.jpg?v=1570618064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11075.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>AutoMeter® makes a gauge to suit any need and every style from original classics to purpose built race cars and everything in between. The AutoMeter gauges that we feature are the Auto Gage, American Muscle, Arctic White, C2, Cobalt, Cobalt Digital, Designer Black, ES Series, Golden Oldies, Old Tyme White, Old Tyme White II, Phantom, Sport Comp, Sport Comp II, Ultra-Lite, Ultra Lite II, GT Series, Dodge Factory Match, Ford Factory Match, MCX, Mopar, GM Factory Match, Sport Comp Digital, Elite Series, GS Series, Carbon Fiber, Nexus, Pro Comp, NV gauges, Ford Racing, Z Series and others.</p>
+<p>Also AutoMeter® offer Gauge Kits with exceptional design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190961401903</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11075.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190931255343</id>
+    <published>2019-10-09T06:30:35-04:00</published>
+    <updated>2019-10-09T06:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-certified-used-2017-chevrolet-cruze-4dr-hb-1-4l-lt-w-1sd"/>
+    <title>Z Certified Used 2017 Chevrolet Cruze 4DR HB 1.4L LT w/1SD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod19.jpg?v=1570617565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Continually brand prospective e-business without fully researched customer service. Holisticly expedite plug-and-play leadership skills whereas resource-leveling ROI.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190931255343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190919753775</id>
+    <published>2019-10-09T06:22:42-04:00</published>
+    <updated>2019-10-09T06:22:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-certified-used-2017-mazda-3-4-door-touring-auto"/>
+    <title>Z Certified Used 2017 Mazda 3 4-Door Touring Auto</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod13.jpg?v=1570616987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Besides manufacturing performance and racing instrumentation and electronics for the azirspares aftermarket, Auto Meter also has an OEM division that makes instrumentation for production vehicles, a Pro-Cycle division that produces instrumentation for motorcycles, a Marine division that creates instrumentation for watercraft, and a Test Equipment division that manufactures a complete line of equipment for testing, charging and maintaining batteries, and testing the vehicle charging system.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>certified used</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190919753775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16148.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190917591087</id>
+    <published>2019-10-09T06:20:50-04:00</published>
+    <updated>2019-10-09T06:20:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/z-new-2018-audi-a6-2-0-tfsi-premium-plus-quattro-awd-awd"/>
+    <title>Z New 2018 Audi A6 2.0 TFSI Premium Plus quattro AWD AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod7.jpg?v=1570616485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Beautiful Ibis white Audi A6 with Atlas Beige interior. Premium plus package with features including Auto Dimming mirrors, Audi side assist, LED interior lighting, Four-zone climate control, Bose sound system, LED Headlights, 19-inch Sport package, Sport suspension, Cold weather package and much much more.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190917591087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47295.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://azirspares-store-demo.myshopify.com/products/4190903631919</id>
+    <published>2019-10-09T06:11:26-04:00</published>
+    <updated>2019-10-09T06:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://azirspares-store-demo.myshopify.com/products/new-2018-bentley-continental-gt-supersport-convertible-awd"/>
+    <title>Z New 2018 Bentley Continental GT SuperSport AWD</title>
+    <s:type></s:type>
+    <s:vendor>Azirspares – Car dealership and listings directory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/6289/7199/products/prod1.jpg?v=1570615945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Azirspares – Car dealership and listings directory<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            358435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bentley aficionados know that Supersports models are the best of the best; with cranked up performance, dating all the way back to their 1920s motorsports heydays. Well, Bentley delivers yet again. The Continental Supersports is the fastest Bentley ever. So it’s time to get some posh performance on!</p>
+<p>It’s a given that when most Bentley owners hop behind the wheel, it’s off to their country estate, or perhaps to the office of whatever Fortune 500 company they work for. Fortunately, we didn’t have to buy this 2018 Bentley Continental Supersports to try it out. Rather, Bentley was kind enough to “drop it off” for a few days so we could, you know, kick the tires.</p>
+<p>And, we did just that, around the two miles and 9 turns of Roebling Road Raceway near Savannah, Georgia. And, why not? With a top speed of 209 miles-per-hour, it’s the fastest 4-seat luxury car you can buy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://azirspares-store-demo.myshopify.com/products/4190903631919</id>
+      <title>Default Title</title>
+      <s:price currency="USD">358435.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
