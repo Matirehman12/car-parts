@@ -9,8 +9,8 @@ a {
 .search-car-parts {
     display: flex;
     flex-direction: column;
-    width: 320px;
-    height: 500px;
+    /* width: 320px; */
+    /* height: 500px; */
     align-items: flex-start;
     justify-content: space-between;
     padding: 15px;
@@ -230,6 +230,7 @@ a {
 .top-banner .border {
     height: 20px;
 }
+
 .engoc-ssdlv1 .slideshow-info .content2,
 .engoc-ssdlv1 .slideshow-info .content1 {
     color: var(--engoc-primary-color) !important;
@@ -242,11 +243,12 @@ a {
     margin-bottom: 20px !important;
 
 }
-.engoc-ssdlv1 .slideshow-info .content2{
+
+.engoc-ssdlv1 .slideshow-info .content2 {
     color: #000 !important;
 }
 
-.engoc-ssdlv1 .slideshow-info .content4{
+.engoc-ssdlv1 .slideshow-info .content4 {
     color: var(--color-secondary, #000) !important;
     font-size: 16px !important;
     font-weight: 400 !important;
@@ -255,6 +257,68 @@ a {
     margin-bottom: 5px !important;
 }
 
-.row-item .style-02{
+.row-item .style-02 {
     border: 1px solid #ECECEC;
 }
+
+.blog-list-owl .post-inner {
+    border: 2px solid #ECECEC !important;
+}
+
+.footer-v3.style-dark {
+    background: var(--color-bg-1, #002949) !important;
+}
+
+.footer-v3 .copyright {
+    color: var(--color-white-100, #FFF);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.42px;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .slideshow-item img{
+        height: 328px;
+    }
+    .engoc-ssdlv1 .slideshow-info .content2, .engoc-ssdlv1 .slideshow-info .content1 {
+        font-size: 40px !important;
+    }
+    .top-banner p{
+font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .header-logo a{
+        width: 128px !important;
+    }
+    .meta-woo .block-woo .block-link,
+    .block-menu-bar .menu-bar{
+        border: 0px !important;
+        padding: 0px;
+    }
+    .meta-woo .block-woo .block-link{
+        width: 20px !important;
+    }
+    .header-middle-inner{
+        display: flex !important;
+        align-items: center !important;
+    }
+    .header-middle-inner .header-logo{
+        padding: 0 !important;
+    }
+    .block-search{
+        position: absolute;
+        top: 10px;
+    }
+}
+/* @media screen and (max-width: 1024px) {
+    .engoc-ssdlv1 .slideshow-info .content1 {
+        font-size: 28px;
+        margin-bottom: 6px;
+    }
+} */
